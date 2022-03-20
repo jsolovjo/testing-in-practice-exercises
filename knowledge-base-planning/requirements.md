@@ -1,3 +1,6 @@
+REWORK extend the description
+remove parent pom for now
+
 # Knowledge Base Application Requirements
 ## Overview
 The purpose of the application is to collect and keep all knowledge of the team in one place. It will keep transparency and simplicity of knowledge transfer.
