@@ -11,6 +11,22 @@ The application follows the tasks:
 - Knowledge transfer among team members and newcomers;
 - Decrease time-consuming while searching for information;
 
+## Use Cases
+- User Role
+  - User can create, update and delete own profile;
+  - User can authorize to access the application;
+  - User can use an internal search engine;
+  - User can create topics, discussions, questions related to technologies, techniques, etc. used in the team;
+  - User can submit a response/comment to topics, discussion, questions, etc.;
+  - User can evaluate whether a response from another team member is correct or not;
+  - User can export and share topics, questions, answers, etc.;
+  - User can bookmark favourite topics, questions, answers, etc.;
+  - User can categorize bookmarks;
+- Admin Role
+  - Admin has to review all new registrations;
+  - Admin has to moderate (edit, delete, etc.) topics, discussions, questions, etc;
+  - Admin has rights to restrict, block, ban users;
+
 ## Functional Requirements
 - Data Accessibility
   - Data is not publicly available and requires an authentication;
