@@ -16,7 +16,7 @@ This project is created specifically to check your skills
 3. Create a new branch
 
 ## Tasks
-### Test Cases and Matrices - [instructions](test-cases-and-matrices/README.md)
+### Test Cases and Matrices - [instructions](knowledge-base-planning/README.md)
 - Read a customer requirement
   - Identify test cases
   - Identify test matrices
