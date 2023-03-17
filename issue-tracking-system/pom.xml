@@ -9,10 +9,10 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<version.selenide>6.3.4</version.selenide>
-		<version.junit.jupiter>5.8.2</version.junit.jupiter>
-		<version.maven.compiler.plugin>3.10.1</version.maven.compiler.plugin>
-		<version.surefire>3.0.0-M5</version.surefire>
+		<version.selenide>6.12.3</version.selenide>
+		<version.junit.jupiter>5.9.2</version.junit.jupiter>
+		<version.maven.compiler.plugin>3.11.0</version.maven.compiler.plugin>
+		<version.surefire>3.0.0-M9</version.surefire>
 	</properties>
 
 	<dependencyManagement>
