@@ -59,11 +59,11 @@ The application follows the tasks:
 ## System Requirements
 - Web-based Application
   - Web browser support:
-    - Google Chrome 99+
-    - Mozilla Firefox 98+
-    - Safari 15+
+    - Google Chrome 114+
+    - Mozilla Firefox 124+
+    - Safari 17+
 - Desktop application
   - Operating System support:
-    - Windows 8.1, Windows 10, Windows 11
-    - macOS Catalina
-    - Ubuntu 20.04, RHEL8, Fedora 35 (Chrome 99+)
+    - Windows 11
+    - macOS Sonoma (14)
+    - Ubuntu 23.10, RHEL8, RHEL9, Fedora 39
