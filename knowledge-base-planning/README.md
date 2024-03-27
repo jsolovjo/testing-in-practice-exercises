@@ -2,8 +2,8 @@
 ## Tasks
 ### Instructions
 - Read the [Customer Requirements](requirements.md)
-- Create test cases in the same file to cover all specified business requirements
-- Create test matrices in the same file:
+- Create test cases (at least 4 cases) in the same file to cover specified business requirements
+- Create 2 test matrices in the same file:
   - for smoke testing to cover minimally needed combinations to have valuable outputs
   - for full testing to cover all possible combinations to fulfill the customer's requirements
 
