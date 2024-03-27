@@ -3,7 +3,7 @@ This project is created specifically to check your skills
 
 ## Prerequisite
 ### Required basic skills
-- Java
+- Java 17
 - Maven
 - Git
 
