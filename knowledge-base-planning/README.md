@@ -21,9 +21,16 @@ After that if you wish you can come back to the Test Case and Matrices task and 
 | TU02         | Check Customer Login with invalid Data | 1. Enter UserID<br/> 2. Enter Password<br/> 3. Click Submit | Userid = guru99<br/> Password = gass99 | User should not Login into an application | As Expected    | Pass      |
 Inspired by [source](https://www.guru99.com/test-case.html)
 
-### Example of the test matrix
-| OS / jdk        | jdk8 |  jdk11  |  openjdk8  |  openjdk11  |
-|:----------------|:----:|:-------:|:----------:|:-----------:|
-| RHEL8           |  X   |         |     X      |      X      |
-| Windows 11      |  X   |         |            |             |
-| macOS Catalina  |      |    X    |     X      |             |
+### Example of the reduced test matrix (e.g. for acceptance tests)
+| OS / jdk        | jdk8 | jdk11  | openjdk8 | openjdk11  |
+|:----------------|:----:|:------:|:--------:|:----------:|
+| RHEL8           |  X   |        |          |            |
+| Windows 11      |  X   |        |          |            |
+| macOS Catalina  |  X   |        |          |            |
+
+### Example of the extended test matrix
+| OS / jdk        | jdk8 | jdk11 | openjdk8  |  openjdk11  |
+|:----------------|:----:|:-----:|:---------:|:-----------:|
+| RHEL8           |      |       |     X     |      X      |
+| Windows 11      |  X   |   X   |           |             |
+| macOS Catalina  |  X   |   X   |           |             |
